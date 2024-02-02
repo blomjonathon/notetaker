@@ -4,7 +4,7 @@
 
 ### Links
 #### github repo: https://github.com/blomjonathon/notetaker
-#### deployed site (heroku): 
+#### deployed site (heroku): https://notemon-8b53784faf49.herokuapp.com/
 
 #### Screenshot:
 
